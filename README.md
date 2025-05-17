@@ -1,6 +1,6 @@
 # llm-plugin-tools cookiecutter template
 
-A cookiecutter template for creating new [llm plugins](https://llm.datasette.io/en/stable/plugins/index.html) that adds new [tools](https://llm.datasette.io/en/latest/tools.html) to LLM.
+A cookiecutter template for creating new [LLM plugins](https://llm.datasette.io/en/stable/plugins/index.html) that adds new [tools](https://llm.datasette.io/en/latest/tools.html) to LLM.
 `
 ## Installation
 
